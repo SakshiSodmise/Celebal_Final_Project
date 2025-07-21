@@ -8,10 +8,11 @@ Unsupervised ML project using Isolation Forest & Autoencoder to detect intrusion
 
 ### 📦 Files Included:
 
-- 🧠 `01_Code.ipynb` – Main notebook (original code, untouched)  
-- 🧩 `02_Code-zip-dataset.ipynb` – Same code but with ZIP extract logic  
+- 🧠 `01_Code.ipynb` – Main notebook (original code, untouched)
+- 🧾 `02_LOGIC_FOR_PROJECT.pdf` – Stage-wise project logic & flow 
+- 🧩 `03_Code-zip-dataset.ipynb` – Same code but with ZIP extract logic  
 - 📁 `kddcup.data_10_percent_corrected.zip` – Zipped dataset (for compatibility & upload size limit)  
-- 🧾 `03_LOGIC_FOR_PROJECT.pdf` – Stage-wise project logic & flow  
+ 
 
 ---
 
